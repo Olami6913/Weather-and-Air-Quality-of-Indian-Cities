@@ -1,58 +1,20 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "29bc5c0d-3466-4580-9f5a-1c8b7f5d251b",
-   "metadata": {},
-   "source": [
-    "## Introduction\n",
-    "This dataset contains weather and air quality of multiple cities in India. it includes observations for key pollutants, meterological variables (temperature, wind speedand direction, humidity, cloud cover, pressure, precipitation), and temporal information (sunrise, sunset, moonrise, moonset).\n",
-    "The dataset was collected to monitor urban air quality and understand its relationship with weather conditions, which is critical for public health, urban planning, and environmental policy."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "c617c39e-3eae-45ec-8bf5-26470ac8052b",
-   "metadata": {},
-   "source": [
-    "## Objectives\n",
-    "Explore the distribution and variability of pollutants across citeis and weather conditions\n",
-    "Understand how weather variables influence air pollution\n",
-    "Identify spatial and temporal patterns in pollution data"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "89ec1627-3105-4c09-b68f-3a6df5181a6e",
-   "metadata": {},
-   "source": [
-    "## Key Findings\n",
-    "Pollutant distribution: PM2.5 and PM10 are right-skewed with higher values in urban hotspots.\n",
-    "Weather influence: calm weather conditions are associated with higher pollutant concentrations; wind disperses pollutants effectively.\n",
-    "Temporal patterns: PM2.5 shows diurnal variation, peaking during early morning hours. \n",
-    "Spatial patterns: Significant variation across cities; some locations consistently show higher average pollutant levels."
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.13.9"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+Introduction
+
+This dataset contains weather and air quality data for multiple cities in India. It includes observations of key air pollutants alongside meteorological variables such as temperature, wind speed and direction, humidity, cloud cover, atmospheric pressure, and precipitation. In addition, the dataset provides temporal information including sunrise, sunset, moonrise, and moonset times.
+
+The dataset was collected to support monitoring of urban air quality and to examine its relationship with weather conditions. Such analyses are critical for public health assessment, urban planning, and environmental policy development.
+
+⸻
+
+Objectives
+	•	Explore the distribution and variability of air pollutants across cities and weather conditions
+	•	Examine how meteorological variables influence air pollution levels
+	•	Identify spatial and temporal patterns in air quality data
+
+⸻
+
+Key Findings
+	•	Pollutant distribution: PM2.5 and PM10 concentrations are right-skewed, with higher values observed in urban hotspots.
+	•	Weather influence: Calm weather conditions are associated with higher pollutant concentrations, while increased wind speeds contribute to pollutant dispersion.
+	•	Temporal patterns: PM2.5 exhibits diurnal variation, with higher concentrations during early morning hours.
+	•	Spatial patterns: There is significant variation across cities, with some locations consistently recording higher average pollutant levels.
